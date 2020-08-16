@@ -3,3 +3,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aswin7469&show_icons=true&include_all_commits=true&theme=buefy" alt="Aswin's github stats" />
 </a>
+ <img align="center" src="https://komarev.com/ghpvc/?username=aswin7469&style=flat-square" />
+</a>
