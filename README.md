@@ -1,7 +1,1 @@
-### Hi there, I'm [Aswin A S](https://aswin7469.github.io) 👋
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aswin7469&show_icons=true&include_all_commits=true&theme=radical" alt="Aswin's github stats" />
-</a>
- <img align="center" src="https://komarev.com/ghpvc/?username=aswin7469&style=flat-square" />
-</a>
+![Metrics](https://metrics.lecoq.io/aswin7469?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow)
